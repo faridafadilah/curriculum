@@ -1,0 +1,21 @@
+{
+  "NOT_FOUND": "Data tidak tersedia!",
+  "SUCCESS_GET": "Data berhasil",
+  "SUCCESS_POST": "Data berhasil dibuat",
+  "SUCCESS_PUT": "Data berhasil diupdate",
+  "SUCCESS_DELETE": "Data berhasil didelete",
+  "DUPLICATE": "Data {field} sudah tersedia {school}!",
+  "SUCCESS": "Data berhasil",
+  "USER_NOT_FOUND": "User tidak ada",
+  "ERROR_LOGIN": "Email atau password salah!",
+  "EMAIL_EXIST": "Email sudah tersedia!",
+  "REGISTER_SUCCESS": "Registrasi berhasil!",
+  "LOGIN_SUCCESS": "Login sukses!",
+  "LOGIN_FAILED": "Login gagal!",
+  "USER_NAME_NOT_FOUND": "Email salah!",
+  "PASSWORD_NOT_MATCHED": "Password salah!",
+  "FILE_VALIDATION_FORMAT": "Hanya {extension} file yang diperbolehkan!",
+  "FILE_VALIDATION_MAX": "File terlalu besar, ukuran maksimum {maximum}",
+  "DATA_EXIST": "Data{field} sudah tersedia!",
+  "PASSWORD_NOT_MATCH": "Password anda tidak cocok!"
+}

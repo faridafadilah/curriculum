@@ -1,0 +1,20 @@
+{
+  "NOT_FOUND": "Data Not Found!",
+  "SUCCESS_GET": "Data get successfully",
+  "SUCCESS_POST": "Data created successfully",
+  "SUCCESS_PUT": "Data updated successfully",
+  "SUCCESS_DELETE": "Data deleted successfully",
+  "SUCCESS": "Successfully",
+  "USER_NOT_FOUND": "User not found",
+  "ERROR_LOGIN": "Email or password wrong!",
+  "EMAIL_EXIST": "Email already exist!",
+  "REGISTER_SUCCESS": "Register Successfully!",
+  "LOGIN_SUCCESS": "Login Successfully!",
+  "LOGIN_FAILED": "Login failed!",
+  "USER_NAME_NOT_FOUND": "Username not found!",
+  "PASSWORD_NOT_MATCHED": "Password does not match!",
+  "FILE_VALIDATION_FORMAT": "Only {extension} file are allowed!",
+  "FILE_VALIDATION_MAX": "File to large, maximum size is {maximum}",
+  "DATA_EXIST": "Already exists for the given parameter",
+  "PASSWORD_NOT_MATCH": "Your password does not match!"
+}
